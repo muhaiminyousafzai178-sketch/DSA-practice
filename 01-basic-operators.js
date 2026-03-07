@@ -42,3 +42,17 @@
 
 // console.log(7%2) 
 
+
+// % operator ko modulus (remainder) operator kehte hain. Yeh division ka remainder return karta ha 
+//   arithmethic 
+// console.log(25 % 10) // 5
+// console.log(44 % 10) // 4
+// console.log(103 % 10) // 3
+
+// let a = 79
+// console.log(a%10)
+
+// ans =9
+
+
+
