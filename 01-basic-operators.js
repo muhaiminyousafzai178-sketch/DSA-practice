@@ -15,3 +15,30 @@
 // console.log ("2"-2)
 // Ans = 0 
 
+
+// type casting
+
+// let age =Number (prompt("what is your age "))
+// console.log ( typeof age)
+
+
+// let a = 10;
+// let b = 20 ;
+// let c ;
+
+// c = a
+// a = b
+// b = c
+
+// console.log (a)
+// console.log(b)
+
+
+
+// let a = 12
+// let b = 22
+
+// console.log ( Math.floor(12/5))
+
+// console.log(7%2) 
+
